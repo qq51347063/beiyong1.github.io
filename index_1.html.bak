@@ -1,0 +1,311 @@
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from 521lt.cn/index_1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 09 Mar 2020 18:39:36 GMT -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>豆哥，欢迎您</title>
+<meta name="Keywords" content="豆哥,绝地求生卡盟,绝地求生辅助,绝地求生辅助代理,绝地求生更新">
+<meta name="Description" content="豆哥,是全网最新最稳定最低价的绝地求生外挂辅助平台,辅助功能包含透视、自瞄、加速、无后、爆头、吸人、穿墙、追踪,打造最稳定的绝地求生辅助!">
+<script src="static/js/jquery.min.js"></script>
+<style type="text/css">
+body {
+  margin: 0 auto;
+  overflow: hidden;
+}
+.header {
+  margin: 0 auto;
+  width: 100%;
+  height: 640px;
+  background-color: #000;
+  position: relative;
+}
+.header canvas {
+  width: 100%;
+  height: auto/*默认全屏显示 可自己设置高度640px*/;
+  display: inline-block;
+vertical-align:baseline  position:absolute;
+  z-index: -1;
+}
+.header .canvaszz {
+  width: 100%;
+  height:100%;
+  background-image: url(static/images/bj.jpg);
+  position: fixed;
+  top:0;
+  z-index: 1;
+  filter: alpha(opacity=40);
+  -moz-opacity: 0.4;
+  -khtml-opacity: 0.4;
+  opacity: 0.4;
+}
+.header .top_logo {
+  background: url(static/images/2.png)no-repeat center top ;
+  margin: 0 auto;
+  width: 450px;
+  height: 350px;
+  position: absolute;
+  z-index: 30;
+  left: 50%;
+  margin-left: -245px;
+}
+.header .nav {
+  width: 540px;
+  height: auto;
+  position: absolute;
+  z-index: 30;
+  top: 530px;
+  left: 50%;
+  margin-left: -270px;
+}
+.header .nav a.gv {
+  text-decoration: none;
+  background: url(static/images/1.png) repeat 0px 0px;
+  width: 130px;
+  height: 43px;
+  display: block;
+  text-align: center;		/*水平居中*/
+  line-height: 43px;  /*上下居中*/
+  cursor: pointer;
+  float: left;/*左浮动*/
+  margin: 8px 2px 8px 2px;
+  font: 18px/43px 'microsoft yahei';
+  color: #FFF;
+}
+.header .nav a.gv span {
+  display: none;
+}
+.header .nav a.gv:hover {
+  background: url(static/images/1.png) repeat 0px -43px;
+  color: #1d7eb8;
+  -webkit-box-shadow: 0 0 6px #1d7eb8;
+  transition-duration: 0.5s;
+}
+.header .topcn {
+  width: 980px;
+  top: 280px;
+  left: 50%;
+  margin-left: -490px;
+  position: absolute;
+  z-index: 20;
+}
+.STYLE1 {
+  line-height:1.5em;
+}
+@media only screen and (max-width: 1000px){
+  .header .top_logo{
+    top: 400px;
+  }
+  .header .topcn{
+    top: 755px;
+  }
+  .header .nav{
+    top: 920px;
+  }
+}
+  </style>
+</head>
+<body>
+  <div class="header" id="demo">
+    <div class="top_logo"></div>
+    <div class="topcn" style="font:20px/18px 'microsoft yahei'; color:#0FF;text-align:center;">
+      <p><span class="STYLE1">
+          <!---->
+          <!-- <font color="#FF0000"></font><br> -->
+        </span></p>
+      
+     <h2>
+
+	请您花1秒钟记住域名：<span style="background-color:#ff0000;">豆哥.top</span></h2>
+
+如果您所在的群被封，或者客服长时间未回复您：<br />
+
+<br />
+
+<span style="background-color:#ff0000;">请在浏览器输入</span><span style="color:#ee82ee;"><strong>&nbsp;豆哥.top&nbsp;</strong></span><span style="background-color:#ff0000;">就可以找到我们，为您保驾护航。</span><br />
+
+<h2>
+
+	<span style="font-size:28px;">&nbsp;</span>CTRL+D保存官网<img alt="" src="static/images/1-191223013F3Y8.png" style="color: rgb(0, 255, 255); font-size: 22px; width: 30px; height: 30px;" />永不迷路</h2>
+
+<h2>
+
+	&nbsp;</h2>
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<a href="https://dak.gg/"><img alt="" src="static/images/1-191223012Ia09.png" style="width: 50px; height: 47px;" /></a><a href="https://dak.gg/" target=""><img src="static/images/logo_pubg_h40.png" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://news.xunyou.com/battlegrounds/status/index.html" target=""><img alt="" src="static/images/1-191223221021122.png" style="width: 210px; height: 16px;" /></a>&nbsp;
+
+<div style="text-align: center;">
+
+	<span style="font-size:16px;"><strong><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://pubg.op.gg"><span style="color:#ffffff;">战 绩 查 询&nbsp;</span></a><span style="color:#ffffff;">&nbsp;</span></em></strong></span><span style="color:#ffffff;">&nbsp; &nbsp;&nbsp;</span><span style="color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp;</span><span style="color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp;</span><span style="color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></div>
+
+&nbsp;<br />
+
+<br />
+
+<h2>
+
+	&nbsp;</h2>
+
+<title></title>
+
+    </div>
+    <div class="nav">
+      <br>
+      <br>
+<a href="http://www.wrxjz.com/links/FFFC9758" target="_blank" class="gv">自助提卡</a>
+<a href="http://xiazai.ma/" target="_blank" class="gv" onclick="return confirm('访问密码：6666');">下载地址</a>
+<a href="http://www.wrxjz.com/orderquery"_blank" class="gv">订单查询</a>
+<a href="https://jq.qq.com/?_wv=1027&k=RnGtUqB0" target="_blank" class="gv">售后Q群</a></div>
+
+  <div class="canvaszz"></div>
+  <canvas id="canvas"></canvas>
+</div>
+<div class="videozz"><div id='xxxpan-video-bg'></div><video id='xxxpan-video' volume='0' autoplay="" src='https://media.st.dl.bscstorage.net/steam/apps/256756579/movie_max.mp4' type='video/mp4;'></video></div>
+<script>
+//宇宙特效
+"use strict";
+var canvas = document.getElementById('canvas'),
+  ctx = canvas.getContext('2d'),
+  w = canvas.width = window.innerWidth,
+  h = canvas.height = window.innerHeight,
+
+  hue = 217,
+  stars = [],
+  count = 0,
+  maxStars = 888;//星星数量
+
+var canvas2 = document.createElement('canvas'),
+  ctx2 = canvas2.getContext('2d');
+canvas2.width = 100;
+canvas2.height = 100;
+var half = canvas2.width / 2,
+  gradient2 = ctx2.createRadialGradient(half, half, 0, half, half, half);
+gradient2.addColorStop(0.025, '#CCC');
+gradient2.addColorStop(0.1, 'hsl(' + hue + ', 61%, 33%)');
+gradient2.addColorStop(0.25, 'hsl(' + hue + ', 64%, 6%)');
+gradient2.addColorStop(1, 'transparent');
+
+ctx2.fillStyle = gradient2;
+ctx2.beginPath();
+ctx2.arc(half, half, half, 0, Math.PI * 2);
+ctx2.fill();
+
+// End cache
+
+function random(min, max) {
+  if (arguments.length < 2) {
+    max = min;
+    min = 0;
+  }
+
+  if (min > max) {
+    var hold = max;
+    max = min;
+    min = hold;
+  }
+
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function maxOrbit(x, y) {
+  var max = Math.max(x, y),
+    diameter = Math.round(Math.sqrt(max * max + max * max));
+  return diameter / 2;
+  //星星移动范围，值越大范围越小，
+}
+
+var Star = function() {
+
+  this.orbitRadius = random(maxOrbit(w, h));
+  this.radius = random(60, this.orbitRadius) / 8; 
+  //星星大小
+  this.orbitX = w / 2;
+  this.orbitY = h / 2;
+  this.timePassed = random(0, maxStars);
+  this.speed = random(this.orbitRadius) / 50000; 
+  //星星移动速度
+  this.alpha = random(2, 10) / 10;
+
+  count++;
+  stars[count] = this;
+}
+
+Star.prototype.draw = function() {
+  var x = Math.sin(this.timePassed) * this.orbitRadius + this.orbitX,
+    y = Math.cos(this.timePassed) * this.orbitRadius + this.orbitY,
+    twinkle = random(10);
+
+  if (twinkle === 1 && this.alpha > 0) {
+    this.alpha -= 0.05;
+  } else if (twinkle === 2 && this.alpha < 1) {
+    this.alpha += 0.05;
+  }
+
+  ctx.globalAlpha = this.alpha;
+  ctx.drawImage(canvas2, x - this.radius / 2, y - this.radius / 2, this.radius, this.radius);
+  this.timePassed += this.speed;
+}
+
+for (var i = 0; i < maxStars; i++) {
+  new Star();
+}
+
+function animation() {
+  ctx.globalCompositeOperation = 'source-over';
+  ctx.globalAlpha = 0.5; //尾巴
+  ctx.fillStyle = 'hsla(' + hue + ', 64%, 6%, 2)';
+  ctx.fillRect(0, 0, w, h)
+
+  ctx.globalCompositeOperation = 'lighter';
+  for (var i = 1, l = stars.length; i < l; i++) {
+    stars[i].draw();
+  };
+
+  window.requestAnimationFrame(animation);
+}
+
+animation();
+</script>
+<script>
+var style = document.createElement("style");
+style.innerHTML = ".www_xxxpan_com:after{background: url(static/images/game-jdqs.asp) no-repeat;}#xxxpan-video{ width:100%; position: fixed; top: 0; left: 0;}#xxxpan-video-bg{position:absolute;width:100%;height:100%; top:0; background:url(static/images/tb2eugnry1ybunjsszhxxcusfxa_!!341976337.png);z-index:2}.videozz video{position:absolute;z-index:1;top:-60px;left:0;right:0;bottom:0;width:100%;height:auto}"
+document.getElementsByTagName("head")[0].appendChild(style);
+var md=document.getElementsByTagName("video")[0];
+md.addEventListener("ended",function(){
+document.getElementById("xxxpan-video").style.display = "none";
+document.getElementById("xxxpan-video-bg").style.display = "none";
+});
+myVid=document.getElementById("xxxpan-video");
+myVid.volume=0.5;
+</script>
+</body>
+
+
+
+
+<!-- Mirrored from 微笑.cc/index_1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 09 Mar 2020 18:39:37 GMT -->
+</html>
